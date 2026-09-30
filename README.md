@@ -11,7 +11,7 @@ An auto-filling report card built in Google Sheets. Select a Roll No. from the d
 ## Demo
 
 
-![Watch Video Demo] (https://github.com/user-attachments/assets/86c1af52-fde3-4b7d-9577-199e57f4dbff)
+![Watch Video Demo] (https://github.com/user-attachments/assets/86c1af52-fde3-4b7d-9577-199e57f4dbff) 
 
 
 
