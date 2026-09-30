@@ -8,10 +8,9 @@ An auto-filling report card built in Google Sheets. Select a Roll No. from the d
 [View Report Card](https://docs.google.com/spreadsheets/d/1daMUfReG1Redlrg3SxOfKalU1FJn7yN_dONcUEFk42o/edit?usp=sharing)
 (Read-only view. The dropdown works only in the original file, see the demo below.)
 
-## Demo
+### 🎥 Demo Video
 
-
-![Watch Video Demo] (https://github.com/user-attachments/assets/86c1af52-fde3-4b7d-9577-199e57f4dbff) 
+[▶️ Watch Video Demo](https://github.com/user-attachments/assets/86c1af52-fde3-4b7d-9577-199e57f4dbff)
 
 
 
